@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.Form{
+    height: 500px;
+}
+.title{
+    font-weight: bold;
+    margin-top: 80px;
+}
+.EmailForgetPassword{
+    margin-top: 40px;
+    background-color:#f5f5f5 !important;
+}
+.btnForgetPassword{
+    font-weight: bold !important;
+}
+.BackForgetPassword{
+    color: #947054 !important;
+    font-size: large;
+    margin-left: 160px;
+}
+.Image{
+height: 400px;
+background-image: url(../images/Forgot\ password-rafiki.png);
+background-size:100% 100%;
+}
+.MessageErreur{
+    font-size: 15px;
+    color: red;
+    display: none;
+}

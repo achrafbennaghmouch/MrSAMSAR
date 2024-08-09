@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+/*---------------------Option de information de profil  N1-----------------*/
+         /*---------Centent----------------*/
+         .row-text{
+          color: black;font-weight: bold;font-size: 15px;
+      }
+      .info-text-value{
+        margin-left: 10px; 
+          margin-top: 21px;
+      }
+     
+      .card-body {
+        margin-top: -26px;
+        -ms-flex: 1 1 auto;
+        flex: 0 1 auto;
+        /* padding: 1.25rem; */
+    }
+      .row-text-value{
+       margin-top: 22px;
+      }
+      /*-------------Title----*/
+      .Title{
+        font-size: 18px !important;font-weight: bold !important;color: black !important;margin-top: 5px !important;
+      }
+      
+      .espace{
+        margin-top: 30px;
+      }
+      .row-value{
+      font-size: 13px;
+    font-family: ui-serif;
+    }
+      .exemples-annonce{
+        width: 840px;
+         background-color: #fff;
+         height: auto;
+         box-shadow: 0px 3px 3px #ddd;
+         padding: 2px;
+         
+       }
+      .exemples-annonce{padding: 0px 7px 24px 37px;}
+      
+      /*---------------------------------Option de MODIFICATION-------------------------*/
+.votre-mod input{
+border-radius: 7px;
+padding: 2px;border: 1px solid rgba(0, 0, 0, 0.477);width: 200px;margin-top: 4px;
+}
+.inpt-mod input{
+ border: none;border-radius: 7px;
+}
+.bbk{
+  margin-top: 40px;
+}
+.card-inf{
+  margin-top: 4px ;border: 1px solid rgba(0, 0, 0, 0.142);border-radius: 10px;
+}
+.bbk .chil-bbk{
+  margin-top: -30px;
+}

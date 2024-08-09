@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+.info-update{
+    border: 1px solid rgba(0, 0, 0, 0.186);
+    border-radius: 7px;
+    padding: 11px 0px 30px 0px;
+}
+.sous-tit p{
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+    margin-left: 10px;
+}
+#datenaissance{
+    font-size: 17px;
+    width: 128%;
+    padding: 0px 0px 0px 30px;
+}
+.form-label{font-weight: bold;}
+.info-adress p{font-family: serif;}
+.exemples-annonce input{    width: 116%;}
+.info-adress select{padding: 9px;border: 1px solid #efeded;}
+.button-infoPro{margin-top: 5px;}
+.button-infoPro {padding: 0px 0px 19px 95px !important;}
